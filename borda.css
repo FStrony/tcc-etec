@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+#borda{
+	width:201px;
+	height:230px;
+	background-color:#FFF;
+	-webkit-border-radius:15px;
+}
